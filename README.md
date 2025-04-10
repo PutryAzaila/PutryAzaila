@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Putry Azaila
+<h2 align="center">Hi there! 👋 I'm Putry Azaila</h2>
 
 🌸 Welcome to my GitHub profile! I'm passionate about technology, creativity, and continuous learning.
 
@@ -18,8 +18,12 @@
 ### ⚡ Fun Fact
 Matcha in my mug, music in my ears, and code on my screen — that’s my happy place 🍵🎧💻
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PutryAzaila&show_icons=true&theme=radical)
-
 ### 🏆 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" />
+</p>
+
+### 🎬 Here's a little animation:
+<p align="center">
+  <img src="https://your-animation-link.gif" alt="animation" />
+</p>
