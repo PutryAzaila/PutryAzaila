@@ -18,7 +18,16 @@
 ### ⚡ Fun Fact
 Matcha in my mug, music in my ears, and code on my screen — that’s my happy place 🍵🎧💻
 
-### 🏆 Top Languages
+### 📊 GitHub Stats & Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PutryAzaila&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 🎬 Here's a little animation:
+<p align="center">
+  <img src="https://your-animation-link.gif" alt="animation" />
 </p>
