@@ -4,7 +4,7 @@
 
 ### 🌱 Currently Learning
 - Web development (HTML, CSS, JavaScript)
-- Backend stuff with Node.js & Laravel
+- Backend stuff with Node.js & PHP
 - Python for data analysis & automation 🐍
 - UI/UX design principles and prototyping with Figma🎨
 
