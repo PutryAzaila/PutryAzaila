@@ -20,6 +20,5 @@ Matcha in my mug, music in my ears, and code on my screen — that’s my happy 
 
 ### 🏆 Top Languages
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical)](https://github.com/PutryAzaila)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" alt="Top Languages" />
 </p>
