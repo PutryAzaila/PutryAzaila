@@ -22,8 +22,3 @@ Matcha in my mug, music in my ears, and code on my screen — that’s my happy 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" />
 </p>
-
-### 🎬 Here's a little animation:
-<p align="center">
-  <img src="https://your-animation-link.gif" alt="animation" />
-</p>
