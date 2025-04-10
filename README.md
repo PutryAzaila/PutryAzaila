@@ -18,7 +18,21 @@
 ### ⚡ Fun Fact
 Matcha in my mug, music in my ears, and code on my screen — that’s my happy place 🍵🎧💻
 
-### 🏆 Top Languages
+### 📊 GitHub Stats & Top Languages
+
+#### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PutryAzaila&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+#### Top Languages with Animation:
+| Language | Usage | Animation |
+|----------|-------|-----------|
+| JavaScript | 60%   | ![JS GIF](https://your-gif-link.gif) |
+| Python     | 20%   | ![Python GIF](https://your-gif-link.gif) |
+| PHP        | 10%   | ![PHP GIF](https://your-gif-link.gif) |
+| Node.js    | 10%   | ![Node.js GIF](https://your-gif-link.gif) |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PutryAzaila&layout=compact&theme=radical" alt="Top Languages" />
 </p>
