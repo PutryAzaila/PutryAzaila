@@ -16,7 +16,7 @@
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaila-dwi-putri-fajarwati-351a83276/)
 
 ### ⚡ Fun Fact
-Matcha in my mug, music in my ears, and code on my screen — that’s my happy place 🍵🎧💻
+Matcha in my mug, music in my ears, and code on my screen that’s my happy place 🍵🎧💻
 
 ### 🏆 Top Languages
 <p align="center">
