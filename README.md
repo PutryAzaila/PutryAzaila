@@ -8,9 +8,6 @@
 - Python for data analysis & automation 🐍
 - UI/UX design principles and prototyping with Figma🎨
 
-### 🔭 I'm Working On
-- Personal website/portfolio 💻  
-
 ### 📫 How to Reach Me
 - 📧 Email: putryazaila1306@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaila-dwi-putri-fajarwati-351a83276/)
