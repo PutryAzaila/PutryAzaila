@@ -14,7 +14,7 @@
 ### 📫 How to Reach Me
 - 📧 Email: putryazaila1306@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaila-dwi-putri-fajarwati-351a83276/)
-- Website: [Portfolio Web](azailaiest.web.id)
+- Website: [Portfolio Web](https://azailaiest.web.id/)
 
 
 ### ⚡ Fun Fact
