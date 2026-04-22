@@ -14,6 +14,8 @@
 ### 📫 How to Reach Me
 - 📧 Email: putryazaila1306@gmail.com  
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/azaila-dwi-putri-fajarwati-351a83276/)
+- Website: [Portfolio Web](azailaiest.web.id)
+
 
 ### ⚡ Fun Fact
 Matcha in my mug, music in my ears, and code on my screen that’s my happy place 🍵🎧💻
